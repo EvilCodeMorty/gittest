@@ -7,3 +7,4 @@ console.log("在切换到home-bugs分支后第一次修改代码");
 console.log("在切换到home-bugs分支后第二次修改代码");
 console.log("在切换到home-bugs分支后第三次修改代码");
 console.log("在切换到home-bugs分支后共同想修改代码");
+console.log("在切换到404-bug分支后共同修改的代码");
